@@ -1,19 +1,21 @@
-li{
-  position: relative;
-  display: inline-block;
-  float: left;
-  margin: 300;
-  height: 300px;
-  width:300px;
+nav li{
+  display: block;
   list-style-type: none;
+
 }
-h1 h2 h3 p {
 
+nav{
+  margin-left: 75px;
+  float:left;
+}
 
+main{
   text-align: center;
-clear: both;
-padding: 30px 50px 30px 50px;
-border: none;
-margin-left: 50;
+  
+  border: none;
+  margin-left: 205px;
+}
 
+li{
+  padding: 50px;
 }
