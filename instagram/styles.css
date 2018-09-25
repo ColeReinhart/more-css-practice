@@ -1,1 +1,19 @@
-/* Add your CSS here */
+li{
+  position: relative;
+  display: inline-block;
+  float: left;
+  margin: 300;
+  height: 300px;
+  width:300px;
+  list-style-type: none;
+}
+h1 h2 h3 p {
+
+
+  text-align: center;
+clear: both;
+padding: 30px 50px 30px 50px;
+border: none;
+margin-left: 50;
+
+}
