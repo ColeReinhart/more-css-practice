@@ -7,15 +7,19 @@ nav li{
 nav{
   margin-left: 75px;
   float:left;
+  border: solid black;
+
+  margin-bottom: 100px;
 }
 
 main{
-  text-align: center;
-  
+  text-align: left;
+
   border: none;
   margin-left: 205px;
+  padding-left: 205px;
 }
 
 li{
-  padding: 50px;
+  padding: 10px 50px;
 }
