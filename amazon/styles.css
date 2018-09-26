@@ -1,1 +1,23 @@
-/* Add your CSS here */
+h1 {
+  color: orange;
+}
+
+h2 {
+  border-bottom: solid lightgray;
+}
+
+img {
+  width: 250px;
+
+}
+
+.item{
+  text-align:center;
+  display:block;
+  float: left;
+  margin-right: 30px;
+}
+
+.kool{
+  width: 400px;
+}
