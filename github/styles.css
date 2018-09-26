@@ -1,3 +1,64 @@
 h1 {
   text-align: center;
 }
+
+.wub{
+  text-align: center;
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+.who{
+  text-align: center;
+  display: inline;
+}
+
+.border-left{
+  margin-left: 30%;
+}
+
+.op{
+
+  padding: 5px;
+}
+
+
+.img1{
+  position:relative;
+  float:left;
+  padding:1rem;
+}
+
+section {
+  width: 100%;
+}
+
+article {
+  top: 50%;
+  left: 50%;
+  padding: 1rem;
+  text-align: left;
+
+}
+
+.move {
+  float: left;
+  width: 25%;
+}
+
+.work{
+  padding-left: 20%;
+  float: left;
+  width: 25%;
+}
+
+html, body, section, div {
+  height: 100%;
+}
+
+.img2{
+
+  position:absolute;
+  float:left;
+
+}
