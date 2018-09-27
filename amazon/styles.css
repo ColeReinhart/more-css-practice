@@ -7,7 +7,9 @@ h2 {
 }
 
 img {
-  width: 250px;
+  width: 100px;
+  display: inline;
+
 
 }
 
@@ -16,8 +18,10 @@ img {
   display:block;
   float: left;
   margin-right: 30px;
+  margin-left: 100px;
+
 }
 
 .kool{
-  width: 400px;
+  margin-left: 100px;
 }
